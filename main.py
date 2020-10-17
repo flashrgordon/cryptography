@@ -2,6 +2,9 @@
 # Use           Cipher interface
 # Last Edited   13 October 2020
 
+# Special thanks to 'Cracking Codes with Python' by Al Sweigart with No Starch Press for providing much of
+# the information needed to complete this.
+# ISBN: 978-1-59327-822-9
 
 import caesarcipher as caesar
 import transposition as trans
